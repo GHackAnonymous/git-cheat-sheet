@@ -1,7 +1,7 @@
 # Git cheat sheet
-
+ 
 Resumen de comandos para utilizar con Git.
-
+ 
 Original creado por Hylke Bons basado en el trabajo de Zack Rusin y Sébastien Pierre.
 
 Publicado bajo la licencia Creative Commons Attribution 3.0.
